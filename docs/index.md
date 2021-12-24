@@ -4,6 +4,3 @@
 
 layout: home
 ---
-# This is the first page of my site
-
-Hello, World!
