@@ -30,7 +30,7 @@ twitter_username: culpies
 github_username:  tculpepp
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
