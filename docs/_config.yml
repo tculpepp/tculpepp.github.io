@@ -18,21 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 
-  "##     ##    ###     ######  ##    ## #### ##    ##  ######      ######## ##     ## ########     ######   #### ########   ######   #######  ##    ## 
-  ##     ##   ## ##   ##    ## ##   ##   ##  ###   ## ##    ##        ##    ##     ## ##          ##    ##   ##  ##     ## ##    ## ##     ## ###   ## 
-  ##     ##  ##   ##  ##       ##  ##    ##  ####  ## ##              ##    ##     ## ##          ##         ##  ##     ## ##       ##     ## ####  ## 
-  ######### ##     ## ##       #####     ##  ## ## ## ##   ####       ##    ######### ######      ##   ####  ##  ########   ######  ##     ## ## ## ## 
-  ##     ## ######### ##       ##  ##    ##  ##  #### ##    ##        ##    ##     ## ##          ##    ##   ##  ##     ##       ## ##     ## ##  #### 
-  ##     ## ##     ## ##    ## ##   ##   ##  ##   ### ##    ##        ##    ##     ## ##          ##    ##   ##  ##     ## ##    ## ##     ## ##   ### 
-  ##     ## ##     ##  ######  ##    ## #### ##    ##  ######         ##    ##     ## ########     ######   #### ########   ######   #######  ##    ##"
+title: Hacking The Gibson 
 
 author:
   name: tom culpepper
   email: tculpepp@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my journey to learn and share as a tackle my BSCS courses and my own
-  projects and rabbit-holes outside of that. Hopefully something in here is 
+  projects and rabbit-holes outside of that. Learning to program and tackle
+  bigger and bigger problems. Hopefully something in here is 
   helpful to someone else along the way. I know I'll probably learn plenty as I 
   work through this.
 baseurl: "" # the subpath of your site, e.g. /blog
