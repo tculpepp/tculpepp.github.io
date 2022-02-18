@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World!"
-date:   2022-02-18 12:00:00 -0600
+date:   2022-02-18 10:00:00 -0600
 ---
 
 # Hello World!
