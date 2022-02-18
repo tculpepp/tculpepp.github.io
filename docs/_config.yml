@@ -36,7 +36,8 @@ twitter_username: culpies
 github_username:  tculpepp
 
 # Build settings
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
